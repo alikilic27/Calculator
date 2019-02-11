@@ -16,4 +16,9 @@ public class Calculator {
         double result = n1 / n2;
         return  result;
     }
+
+    public static double remainder(double n1, double n2){
+        double result = n1 / n2;
+        return  result;
+    }
 }
